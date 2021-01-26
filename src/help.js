@@ -1,12 +1,10 @@
 const help = (prefix) => {
-	return `
-
-➣Olá, esses são meus comandos, não se esqueça de me seguir no insta e divulgar o número para os amigos <3  
+	return `➣Olá, esses são meus comandos, não se esqueça de me seguir no insta e divulgar o número para os amigos <3  
 
 https://instagram.com/marquin.xz?igshid=dl4lbvg5ie7d
 
-〲
-〲┴┬➣𝐃𝐎𝐍𝐎: 𝐌𝐀𝐑𝐐𝐔𝐈𝐍7 愛
+➣𝐃𝐎𝐍𝐎: 𝐌𝐀𝐑𝐐𝐔𝐈𝐍7 愛
+
 〲
 〲┴┬➣ wa.me/5511977782073
 〲
